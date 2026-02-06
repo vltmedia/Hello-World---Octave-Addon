@@ -1,0 +1,7 @@
+{
+    "name": "HelloWorld",
+    "author": "VLT Media",
+    "description": "Minimal Addon",
+    "version": "1.0.0",
+    "type": "addon"
+}
